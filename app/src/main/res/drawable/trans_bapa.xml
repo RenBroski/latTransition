@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bapa" android:duration="3000"/> <!-- Gambar awal -->
+    <item android:drawable="@drawable/mama" android:duration="3000"/> <!-- Gambar tujuan -->
+</transition>

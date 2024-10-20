@@ -1,0 +1,5 @@
+<resources>
+    <color name="background_color">#E0F7FA</color> <!-- Latar belakang utama -->
+    <color name="card_background">#FFFFFF</color> <!-- Warna latar belakang CardView -->
+    <color name="button_color">#00796B</color> <!-- Warna tombol -->
+</resources>
